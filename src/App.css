@@ -1,0 +1,24 @@
+.card {
+  width: 200px;
+  margin: 50px;
+}
+
+.card-img-top {
+  height: 200px;  
+}
+
+.btn {
+  background-color: #5484e6;
+  text-decoration: none;
+  height: 60px;
+  width: 200px;
+  border-radius: 3px;
+  align-items: center;
+  padding: .5em 1em calc(.8em + 3px);
+}
+
+
+.btn-primary {
+  color: #fdffff;
+}
+
